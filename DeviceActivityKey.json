@@ -7,13 +7,6 @@
     "allowOffline": true
   },
   {
-    "id": "id_device_android",
-    "username": "eno",
-    "password": "123",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  },
-  {
     "id": "ffb424f569d63490",
     "username": "remodtaxsee",
     "password": "123",
