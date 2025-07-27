@@ -8,6 +8,13 @@
   },
   {
     "id": "ffb424f569d63490",
+    "username": "rmtmod",
+    "password": "rmtmod",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "ffb424f569d63490",
     "username": "remodtaxsee",
     "password": "123",
     "expiresAt": "2024-11-30",
