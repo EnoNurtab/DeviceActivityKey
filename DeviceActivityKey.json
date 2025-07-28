@@ -1,8 +1,8 @@
 [
   {
     "id": "past_id_device",
-    "username": "rmt001",
-    "password": "rmt001",
+    "username": "user01",
+    "password": "user01",
     "expiresAt": "2025-01-31",
     "allowOffline": false
   },
